@@ -1,0 +1,16 @@
+{
+  "name": "rock-paper-scissor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "task3.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "secure-random": "^1.1.2"
+  }
+}
