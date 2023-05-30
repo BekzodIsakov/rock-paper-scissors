@@ -41,7 +41,7 @@ class Game {
     }
 
     if (!(1 <= userResponse && userResponse <= this.moves.length)) {
-      console.log("Invalid input");
+      console.log("Invalid input!");
       return this.initGame();
     }
 
